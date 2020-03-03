@@ -30,3 +30,8 @@ Unity on Ubuntu 18.04.
       * If you want to keep the default login screen in Ubuntu 18.04: select gdm3.
 
    4. Once the installation is complete, restart your system. At the login screen, click on the Ubuntu symbol in LightDM or gear symbol in GDM.
+   
+Unity on Windows 10.
+ 
+ 1. Go to Unity’s Download Page and click “Download Installer for Windows”. A UnityDownloadAssistant-x.x.exe file should be downloaded to your “Downloads” folder (where x.x is the current Unity version)
+  
