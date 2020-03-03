@@ -97,4 +97,6 @@ The Learning\_Module code is located in Assets -> Application -> Learning\_Modul
 - Open the "MainMenu" scene from the scenes folder at /Assets/scene.
 - Make sure that all of the scenes for the application are there in the build settings:
 
+## Contributing
+
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
