@@ -50,3 +50,13 @@ There are two sets of files under Behaviors folder.
 The BoardGame Module code is located in Assets -> Application -> BoardGame\_Module Folder.
 
 - /Player\_Movement
+  - BoardManager.cs
+  - Pieces.cs
+  - clickevent.cs
+  - Rail.cs
+  - Mover.cs
+  - Running.cs
+  - Tigercount.cs
+  - Count.cs
+  - Runninggoat.cs
+
