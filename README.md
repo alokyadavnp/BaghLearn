@@ -42,3 +42,4 @@ A Mobile game based learning application which develops and upskills programming
  4. You can change where you want Unity installed, or leave the default option and click “Next”.
  5. Depending on the components you selected, you may see additional prompts before installing. Follow the prompts and click “Install”. Installing Unity may take some time. After the installation is finished, Unity will be installed on your computer.
   
+### Setup
