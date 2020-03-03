@@ -29,3 +29,5 @@ A Display manager is what you see on the login screen.
 
 * If you want Unity like login screen: select [lightdm](https://wiki.ubuntu.com/LightDM).
 * If you want to keep the default login screen in Ubuntu 18.04: select gdm3.
+
+Once the installation is complete, restart your system. At the login screen, click on the Ubuntu symbol in LightDM or gear symbol in GDM.
