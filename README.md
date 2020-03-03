@@ -47,4 +47,6 @@ A Mobile game based learning application which develops and upskills programming
 There are two sets of files under Behaviors folder.
 
 #### BoardGame Module
-The BoardGame Module code is located in Assets -> Application -> BoardGame Module Folder.
+The BoardGame Module code is located in Assets -> Application -> BoardGame\_Module Folder.
+
+- /Player\_Movement
