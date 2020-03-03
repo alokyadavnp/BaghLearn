@@ -26,5 +26,6 @@ sudo apt install ubuntu-unity-desktop
 * At the installation time, you’ll be asked whether you want to [switch to LightDM](https://itsfoss.com/switch-gdm-and-lightdm-in-ubuntu-14-04/).
 
 * A Display manager is what you see on the login screen.
-... If you want Unity like login screen: select [lightdm](https://wiki.ubuntu.com/LightDM).
-... If you want to keep the default login screen in Ubuntu 18.04: select gdm3.
+
+--- If you want Unity like login screen: select [lightdm](https://wiki.ubuntu.com/LightDM).
+--- If you want to keep the default login screen in Ubuntu 18.04: select gdm3.
