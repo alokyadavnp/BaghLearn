@@ -43,3 +43,8 @@ A Mobile game based learning application which develops and upskills programming
  5. Depending on the components you selected, you may see additional prompts before installing. Follow the prompts and click “Install”. Installing Unity may take some time. After the installation is finished, Unity will be installed on your computer.
   
 ### Setup
+
+There are two sets of files under Behaviors folder.
+
+#### BoardGame Module
+The BoardGame Module code is located in Assets -> Application -> BoardGame Module Folder.
