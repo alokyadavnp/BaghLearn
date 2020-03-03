@@ -16,17 +16,17 @@ A Mobile game based learning application which develops and upskills programming
 * Linux or Windows operating system.
 
 ### Installing
-Installing Unity on Ubuntu 18.04.
+Unity on Ubuntu 18.04.
 
  1. Open a terminal (Ctrl+Alt+T) and use the following command:
-```
-sudo apt install ubuntu-unity-desktop
-```
-At the installation time, you’ll be asked whether you want to [switch to LightDM](https://itsfoss.com/switch-gdm-and-lightdm-in-ubuntu-14-04/).
+    ```
+     sudo apt install ubuntu-unity-desktop
+     ```
+  2. At the installation time, you’ll be asked whether you want to [switch to LightDM](https://itsfoss.com/switch-gdm-and-lightdm-in-ubuntu-14-04/).
 
-A Display manager is what you see on the login screen.
+   3. A Display manager is what you see on the login screen.
 
-* If you want Unity like login screen: select [lightdm](https://wiki.ubuntu.com/LightDM).
-* If you want to keep the default login screen in Ubuntu 18.04: select gdm3.
+      * If you want Unity like login screen: select [lightdm](https://wiki.ubuntu.com/LightDM).
+      * If you want to keep the default login screen in Ubuntu 18.04: select gdm3.
 
 Once the installation is complete, restart your system. At the login screen, click on the Ubuntu symbol in LightDM or gear symbol in GDM.
