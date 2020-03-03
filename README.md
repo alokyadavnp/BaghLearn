@@ -47,7 +47,7 @@ A Mobile game based learning application which develops and upskills programming
 There are two sets of files under Behaviors folder.
 
 #### BoardGame Module
-The BoardGame Module code is located in Assets -> Application -> BoardGame\_Module Folder.
+The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Module Folder.
 
 - /Player\_Movement
 
@@ -77,4 +77,18 @@ The BoardGame Module code is located in Assets -> Application -> BoardGame\_Modu
   - PauseMenu.cs
   - GameOver.cs
   - MainMenu.cs
+  
+The Learning\_Module code is located in Assets -> Application -> Learning\_Module Folder.
+
+  - ButtonForAnswer.cs
+  - DataForGame.cs
+  - DataForQuestion.cs
+  - DataMonitor.cs
+  - GameMonitor.cs
+  - LevelData.cs
+  - PlayerDevelopment.cs
+  - SceneController.cs
+  - SimpleObjectPool.cs
+  - DataForAnswer.cs
+  
 
