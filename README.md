@@ -93,6 +93,9 @@ The Learning\_Module code is located in Assets -> Application -> Learning\_Modul
   - DataForAnswer.cs
   
   ### Running the Game
-- Open the solution with a supported Unity3D Game Engine.
-- Start the "mainMenu" scene from the scenes folder
+- Open the application with a supported Unity3D Game Engine.
+- Open the "MainMenu" scene from the scenes folder at /Assets/scene.
+- Make sure that all of the scenes for the application are there in the build settings:
+
+
 
