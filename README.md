@@ -16,9 +16,9 @@ A Mobile game based learning application which develops and upskills programming
 * Linux or Windows operating system.
 
 ### Installing
-1. Installing Unity on Ubuntu 18.04.
+Installing Unity on Ubuntu 18.04.
 
-    1.1 Open a terminal (Ctrl+Alt+T) and use the following command:
+ 1. Open a terminal (Ctrl+Alt+T) and use the following command:
 ```
 sudo apt install ubuntu-unity-desktop
 ```
