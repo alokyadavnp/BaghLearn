@@ -16,7 +16,7 @@ A Mobile game based learning application which develops and upskills programming
 * Linux or Windows operating system.
 
 ### Installing
-Unity on Ubuntu 18.04.
+**Unity on Ubuntu 18.04.**
 
  1. Open a terminal (Ctrl+Alt+T) and use the following command:
     ```
@@ -31,7 +31,7 @@ Unity on Ubuntu 18.04.
 
    4. Once the installation is complete, restart your system. At the login screen, click on the Ubuntu symbol in LightDM or gear symbol in GDM.
    
-Unity on Windows 10.
+**Unity on Windows 10.**
  
  1. Go to Unity’s [Download Page](https://unity3d.com/get-unity/download) and click “Download Installer for Windows”. A UnityDownloadAssistant-x.x.exe file should be downloaded to your “Downloads” folder (where x.x is the current Unity version).
  
