@@ -56,20 +56,20 @@ The BoardGame Module code is located in Assets -> Application -> BoardGame\_Modu
   - clickevent.cs
   - Rail.cs
   - Mover.cs
-  - Running.cs
-  - Tigercount.cs
+  - running.cs
+  - tigercount.cs
   - Count.cs
-  - Runninggoat.cs
+  - runninggoat.cs
   
 - /Sounds
   
-  - VolumeController.cs
-  - Backgroundmusic.cs
+  - volumecontroller.cs
+  - backgroundmusic.cs
 
 - /Animation
   
-  - DestroyBlood.cs
-  - Killtrigger.cs
+  - destroyblood.cs
+  - killtrigger.cs
   - FlashingText.cs
   
 - /Others
