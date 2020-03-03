@@ -14,3 +14,9 @@ A Mobile game based learning application which develops and upskills programming
 * Java SE Development Kit (version 1.8.0_191 or above) for Java compilation and application build. Jdk Can be downloaded from [here](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
 * The Android SDK (software development kit) (version 24.4.1 or above).
 * Linux or Windows operating system.
+
+### Installing
+
+Install Unity on Ubuntu 18.04
+1. Open a terminal (Ctrl+Alt+T) and use the following command:
+...`sudo apt install ubuntu-unity-desktop`
