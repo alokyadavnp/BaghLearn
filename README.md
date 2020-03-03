@@ -33,5 +33,12 @@ Unity on Ubuntu 18.04.
    
 Unity on Windows 10.
  
- 1. Go to Unity’s [Download Page](https://unity3d.com/get-unity/download) and click “Download Installer for Windows”. A UnityDownloadAssistant-x.x.exe file should be downloaded to your “Downloads” folder (where x.x is the current Unity version)
+ 1. Go to Unity’s [Download Page](https://unity3d.com/get-unity/download) and click “Download Installer for Windows”. A UnityDownloadAssistant-x.x.exe file should be downloaded to your “Downloads” folder (where x.x is the current Unity version).
+ 
+ 2. Open the downloaded installer. Accept the license and terms and click Next.
+ 
+ 3. Select the components you would like to be installed with Unity and click “Next”. Note: If you ever want to change the components, you can re-run the installer.
+ 
+ 4. You can change where you want Unity installed, or leave the default option and click “Next”.
+ 5. Depending on the components you selected, you may see additional prompts before installing. Follow the prompts and click “Install”. Installing Unity may take some time. After the installation is finished, Unity will be installed on your computer.
   
