@@ -92,4 +92,7 @@ The Learning\_Module code is located in Assets -> Application -> Learning\_Modul
   - SimpleObjectPool.cs
   - DataForAnswer.cs
   
+  ### Running the Game
+- Open the solution with a supported Unity3D Game Engine.
+- Start the "mainMenu" scene from the scenes folder
 
