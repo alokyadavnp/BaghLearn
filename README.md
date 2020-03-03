@@ -33,5 +33,5 @@ Unity on Ubuntu 18.04.
    
 Unity on Windows 10.
  
- 1. Go to Unity’s Download Page and click “Download Installer for Windows”. A UnityDownloadAssistant-x.x.exe file should be downloaded to your “Downloads” folder (where x.x is the current Unity version)
+ 1. Go to Unity’s [Download Page](https://unity3d.com/get-unity/download) and click “Download Installer for Windows”. A UnityDownloadAssistant-x.x.exe file should be downloaded to your “Downloads” folder (where x.x is the current Unity version)
   
