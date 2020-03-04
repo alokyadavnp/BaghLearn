@@ -52,7 +52,7 @@ The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Mod
 - /Player\_Movement
 
   - BoardManager.cs class does most of the work.
-    The class has a Move, validity and many other functions 
+    The class has a Move, validity and many other functions. 
     - Trymove() validates the drag functionality from initial drag to final drag position.
     - UpdateMousePosition() returns camera hit point in space with x, y and z value within the board.
     - checkforAvailableMove() lists all the tiger gameobject that has restrict to move. checks in every position within the matrix value of 14 * 14 of frame per unit of time.
