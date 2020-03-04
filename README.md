@@ -118,6 +118,15 @@ With the score count, Player is loaded and loaded back to game1scene again.
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning.
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]() 
+
+## Authors
+
+* **Alok Yadav** - *Initial work* - [BaghLearn](https://github.com/PurpleBooth)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
