@@ -45,6 +45,7 @@ A Mobile game based learning application which develops and upskills programming
 ### Setup
 
 There are two sets of files under Behaviors folder.
+![.github/images/module.png](.github/images/module.png)
 
 #### BoardGame\_Module
 The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Module Folder.
