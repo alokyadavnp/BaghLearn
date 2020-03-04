@@ -51,20 +51,18 @@ The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Mod
 
 - /Player\_Movement
 
-  - BoardManager.cs class does most of the work
+  - BoardManager.cs class does most of the work.
     The class has a Move, validity and many other functions 
     - Trymove() validates the drag functionality from initial drag to final drag position.
     - UpdateMousePosition() returns camera hit point in space with x, y and z value within the board.
     - checkforAvailableMove() lists all the tiger gameobject that has restrict to move. checks in every position within the matrix value of 14 * 14 of frame per unit of time.
     - checkWinCondition() triggers gameover canvas for a valid wincondition.
-  - Pieces.cs
-  - clickevent.cs
-  - Rail.cs
-  - Mover.cs
-  - running.cs
-  - tigercount.cs
-  - Count.cs
-  - runninggoat.cs
+  - Pieces.cs class has defined all the rule set for tiger and goat piece moveement.
+  - clickevent.cs is attached to buttons for onhover and onclick sound effect
+  - Rail.cs class is attached to rail gameobject present in mainmenu scene. This class gives a rail like effect with the help of 7 objects present across the board when game starts.
+  - Mover.cs class attached to main camera in mainmenu for camera to move across those 7 objects from Rail class.
+  - tigercount.cs class attached to tiger, counts total number of tiger gameobject present in the game by the name of the MonoBehaviour type.
+  - Count.cs attached to goat, counts total number of goat gameobject present in the game by the name of the MonoBehaviour type.
   
 - /Sounds
   
@@ -76,6 +74,8 @@ The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Mod
   - destroyblood.cs
   - killtrigger.cs
   - FlashingText.cs
+  - running.cs
+  - runninggoat.cs
   
 - /Others
 
