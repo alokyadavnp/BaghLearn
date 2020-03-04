@@ -125,7 +125,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Alok Yadav** - *Initial work* - [BaghLearn](https://github.com/PurpleBooth)
+* **Alok Yadav** - *Initial work* - [BaghLearn](https://github.com/alokyadavnp/BaghLearn)
 
 ## License
 
