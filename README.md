@@ -62,11 +62,11 @@ The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Mod
   - Rail.cs class is attached to rail gameobject present in mainmenu scene. This class gives a rail like effect with the help of 7 objects present across the board when game starts.
   - Mover.cs class attached to main camera in mainmenu for camera to move across those 7 objects from Rail class.
   - tigercount.cs class attached to tiger, counts total number of tiger gameobject present in the game by the name of the MonoBehaviour type.
-  - Count.cs attached to goat, counts total number of goat gameobject present in the game by the name of the MonoBehaviour type.
+  - Count.cs class is attached to goat, counts total number of goat gameobject present in the game by the name of the MonoBehaviour type.
   
 - /Sounds
   
-  - volumecontroller.cs
+  - volumecontroller.cs class for setting volume of the mixer with slider that is referenced with audiomixer. Added to slider button in option present at mainmenu scene with a size of 10, means value will decrease to 1/10 with each slide.
   - backgroundmusic.cs
 
 - /Animation
