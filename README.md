@@ -79,9 +79,9 @@ The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Mod
   
 - /Others
 
-  - PauseMenu.cs
-  - GameOver.cs
-  - MainMenu.cs
+  - PauseMenu.cs class is attached to PauseCanvas of all the scenes passing global variable available for pause options. 
+  - GameOver.cs class is attached to GameOverCanvas in game1scene scene and is called when gameover condition is meet by any player side.
+  - MainMenu.cs class is attached to canvas in mainmenu scene for different buttons to work which is also a Homescreen. 
   
 #### Learning\_Module
 The Learning\_Module code is located in Assets -> Application -> Learning\_Module Folder.
