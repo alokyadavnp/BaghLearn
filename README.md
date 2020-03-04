@@ -45,7 +45,7 @@ A Mobile game based learning application which develops and upskills programming
 ### Setup
 
 There are two sets of files under Behaviors folder.
-![alt text](https://github.com/alokyadavnp/BaghLearn/images/module.png "Logo Title Text 1")
+![alt text](https://github.com/alokyadavnp/BaghLearn/images/module.PNG)
 
 #### BoardGame\_Module
 The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Module Folder.
