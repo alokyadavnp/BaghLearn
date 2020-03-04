@@ -120,12 +120,12 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, [Versions](https://github.com/your/project/tags)
+We use [SemVer](http://semver.org/) for versioning. For the versions available, [Versions](https://github.com/alokyadavnp/BaghLearn/versioning)
 
 
 ## Authors
 
-* **Alok Yadav** - *Initial work* - [BaghLearn](https://github.com/alokyadavnp/BaghLearn)
+* **Alok Yadav** - *Initial work* - [BaghLearn](https://github.com/alokyadavnp)
 
 ## License
 
