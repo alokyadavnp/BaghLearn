@@ -86,16 +86,19 @@ The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Mod
 #### Learning\_Module
 The Learning\_Module code is located in Assets -> Application -> Learning\_Module Folder.
 
-  - ButtonForAnswer.cs
-  - DataForGame.cs
-  - DataForQuestion.cs
-  - DataMonitor.cs
-  - GameMonitor.cs
-  - LevelData.cs
-  - PlayerDevelopment.cs
-  - SceneController.cs
-  - SimpleObjectPool.cs
-  - DataForAnswer.cs
+  - ButtonForAnswer.cs class added to AnswerButton gameobject in Game scene. It takes answerdata of type data as argument and pass to ButtonForAnswer to display all the options for answer.
+    - It has public reference for answer button text.
+  - DataForGame.cs is a data class with no variables. Here data is abstracted from an external file called JSon file and for that serialization of an object is done and later when needed, that data is deserialized and used to populate the field of game data object.
+  - DataForQuestion.cs is a data class with no variables. It is used to hold a number of solutions associated with it.
+  - DataMonitor.cs class is attached to Persistant scene and will load the data through out the scenes since this scene is responsible to load data needed for execution.
+  - GameMonitor.cs class is attached to Game Scene is resonsible for execution of learning module of the application. It has number of functions to look at:
+    - DisplayQuestion() reaches out to pool of questions, get the questions and from there to the string of question.
+    - CorrectAnswerSelected() for mouse click event on answers, increase the point if correct answer and even check if there are additional question in the round.
+  - LevelData.cs is a pure c# class representing the number of question in round.
+  - PlayerDevelopment.cs is a data class for storing the highest scores for tiger and goat player at the end of round.
+  - SceneController.cs class is attached to MenuScreenController gameobject in MenuScreen scene and will load the topic selection when a start button is pressed in learning module.
+  - SimpleObjectPool.cs class is attached to Game scene and used to reuse object instead of instantiating and destroying. This allows to recycle objects and avoid allocations which will lead to garbage collection.
+  - DataForAnswer.cs is a data class to hold the correct answer. this data class presists through out the scenes.
   
   ### Running the Game
 - Open the application with a supported Unity3D Game Engine.
