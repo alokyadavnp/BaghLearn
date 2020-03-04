@@ -117,7 +117,7 @@ With the score count, Player is loaded and loaded back to game1scene again.
   
   ### Running the Game
 - Open the application with a supported Unity3D Game Engine.
-- Open the "mainmenu" scene from the scenes folder at /Assets/scene to run testing.
+- Open the "Mainmenu" scene from the scenes folder at /Assets/scene to run testing.
 
 ![alt text](images/mainmenu.PNG)
 
