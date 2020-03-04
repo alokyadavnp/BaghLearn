@@ -44,9 +44,13 @@ A Mobile game based learning application which develops and upskills programming
   
 ### Setup
 
-There are two sets of folder under Application, BoardGame_Module and Learning_Module. BoardGame_Module is divided into 4 sub folder naming Player_Movement, Sounds, Animation and Others
+There are two sets of folder under Application, BoardGame_Module and Learning_Module. BoardGame_Module is further divided into 4 sub folder naming Player_Movement, Sounds, Animation and Others
 
 ![alt text](images/module.PNG)
+
+There are 6 different scenes which in all constitutes the application.
+
+![alt text](images/scenes.PNG)
 
 #### BoardGame\_Module
 The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Module Folder.
