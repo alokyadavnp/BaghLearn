@@ -108,10 +108,10 @@ The Learning\_Module code is located in Assets -> Application -> Learning\_Modul
 ### Order of Execution
 1. MainMenu scene is called when game starts. It has number of buttons to choose from Play, Option, About, Exit and Learning Button.
 2. When player presses play button, it is redirected to game1scene where actual boardgame runs and start with an empty board.
-3. After a couple of seconds staying in game1scene, Persistant scene loads where data related to learning module os loaded and will persist throughout the other scene as well.
-4. once player presses start button, topic selection canvas is loaded followed by learning in nutshell which is further folowed by resepective quiz questions.
+3. After a couple of seconds staying in game1scene, Persistant scene loads where data related to learning module is loaded and will persist throughout the other scene as well.
+4. Once player presses start button, topic selection canvas is loaded followed by learning in nutshell which is further folowed by respective quiz questions.
 With the score count, Player is loaded and loaded back to game1scene again.
-5. Process 3. and 4. repeats again for goat player generation in same way.
+5. Process 3. and 4. repeats again in same manner for goat player generation.
 6. while in game1scene BoardManager.cs and Pieces.cs class executes. At the end, GameOver canvas in triggered in either of the case where tiger or goat player wins.
 
 ## Contributing
