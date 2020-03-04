@@ -48,7 +48,7 @@ There are two sets of folder under Application, BoardGame_Module and Learning_Mo
 
 ![alt text](images/module.PNG)
 
-There are 6 different scenes which in all constitutes the application.
+There are 6 different scenes at Assets/scene, which in all constitutes the application.
 
 ![alt text](images/scenes.PNG)
 
@@ -106,12 +106,7 @@ The Learning\_Module code is located in Assets -> Application -> Learning\_Modul
   - SimpleObjectPool.cs class is attached to Game scene and used to reuse object instead of instantiating and destroying. This allows to recycle objects and avoid allocations which will lead to garbage collection.
   - DataForAnswer.cs is a data class to hold the correct answer. this data class presists through out the scenes.
   
-  ### Running the Game
-- Open the application with a supported Unity3D Game Engine.
-- Open the "MainMenu" scene from the scenes folder at /Assets/scene.
-- Make sure that all of the scenes for the application are there in the build settings:
-
-### Order of Execution
+  ### Order of Execution
 1. MainMenu scene is called when game starts. It has number of buttons to choose from Play, Option, About, Exit and Learning Button.
 2. When player presses play button, it is redirected to game1scene where actual boardgame runs and start with an empty board.
 3. After a couple of seconds staying in game1scene, Persistant scene loads where data related to learning module is loaded and will persist throughout the other scene as well.
@@ -119,6 +114,16 @@ The Learning\_Module code is located in Assets -> Application -> Learning\_Modul
 With the score count, Player is loaded and loaded back to game1scene again.
 5. Process 3. and 4. repeats again in same manner for goat player generation.
 6. while in game1scene BoardManager.cs and Pieces.cs class executes. At the end, GameOver canvas in triggered in either of the case where tiger or goat player wins.
+  
+  ### Running the Game
+- Open the application with a supported Unity3D Game Engine.
+- Open the "mainmenu" scene from the scenes folder at /Assets/scene to run testing.
+
+![alt text](images/mainmenu.PNG)
+
+- Make sure that all of the scenes for the application are there in the build settings:
+
+![alt text](images/build.PNG)
 
 ## Contributing
 
