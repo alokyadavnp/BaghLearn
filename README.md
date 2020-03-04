@@ -44,7 +44,8 @@ A Mobile game based learning application which develops and upskills programming
   
 ### Setup
 
-There are two sets of files under Behaviors folder.
+There are two sets of folder under Application, BoardGame_Module and Learning_Module. BoardGame_Module is divided into 4 sub folder naming Player_Movement, Sounds, Animation and Others
+
 ![alt text](images/module.PNG)
 
 #### BoardGame\_Module
