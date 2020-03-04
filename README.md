@@ -51,7 +51,10 @@ The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Mod
 
 - /Player\_Movement
 
-  - BoardManager.cs
+  - BoardManager.cs class does most of the work
+    - The class has a Move, validity and many other functions 
+    - Trymove() validates the drag functionality from initial drag to final drag position.
+    
   - Pieces.cs
   - clickevent.cs
   - Rail.cs
