@@ -71,11 +71,11 @@ The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Mod
 
 - /Animation
   
-  - destroyblood.cs
-  - killtrigger.cs
-  - FlashingText.cs
-  - running.cs
-  - runninggoat.cs
+  - destroyblood.cs class attached to bloodparticlesystem and is active when a goat player is killed by the tiger
+  - killtrigger.cs class attached to goat gameobject that sets the rule for goat gameobject for triggering death animation along with bool particle system.
+  - FlashingText.cs class attached to play button in mainmenu scene, creates flash efect for play button.
+  - running.cs class attached to tiger gameobject for its different animations like idle, roar, walk, run etc. Gameobject must have a box collider and rigid body component attached to it for animation to come to effect.
+  - runninggoat.cs class attached to goat gameobject for its different animations like idle, run, kill etc. Gameobject must have a box collider and rigid body component attached to it for animation to come to effect
   
 - /Others
 
