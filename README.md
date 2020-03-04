@@ -67,7 +67,7 @@ The BoardGame\_Module code is located in Assets -> Application -> BoardGame\_Mod
 - /Sounds
   
   - volumecontroller.cs class for setting volume of the mixer with slider that is referenced with audiomixer. Added to slider button in option present at mainmenu scene with a size of 10, means value will decrease to 1/10 with each slide.
-  - backgroundmusic.cs
+  - backgroundmusic.cs class is attached to Background_Music gameobject in mainmenu scene for uninterrupted music transation between the scenes. It also checks if instance(backgroundmusic) is not null and current instance is not the first scene, in that case it removes the background_Music gameobject to avoid duplication.
 
 - /Animation
   
