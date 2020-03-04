@@ -120,8 +120,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning.
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]() 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, [Versions](https://github.com/your/project/tags)
+
 
 ## Authors
 
