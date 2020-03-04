@@ -127,7 +127,7 @@ With the score count, Player is loaded and loaded back to game1scene again.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/alokyadavnp/BaghLearn/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
